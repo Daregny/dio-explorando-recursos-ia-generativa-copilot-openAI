@@ -40,3 +40,4 @@
 ![alt text](https://github.com/Daregny/dio-explorando-recursos-ia-generativa-copilot-openAI/blob/main/output/img_001.jpg)
 
 
+Esta projeto de GitHub faz parte do projeto final do Bootcamp Microsoft Copilot AI da DIO. Tanto o texto quanto a imagem foram gerados com a ajuda do Copilot.
